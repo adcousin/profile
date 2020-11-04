@@ -60,6 +60,70 @@ a:hover {
   width: 200px;
 }
 
+.badge {
+  width: 200px;
+  height: 200px;
+}
+
+.badge:hover {
+  width: 150px;
+  height: 150px;
+}
+
+#badge_waits {
+  background: url("images/waits.png");
+  background-position: center center;
+  background-size: 200px;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+#badge_waits:hover {
+  background: url("images/waits_hover.png");
+  background-position: center center;
+  background-size: 200px;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+#badge_jarmusch {
+  background: url("images/jarmusch.png");
+  background-position: center center;
+  background-size: 200px;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+#badge_jarmusch:hover {
+  background: url("images/jarmusch_hover.png");
+  background-position: center center;
+  background-size: 200px;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+#badge_desproges {
+  background: url("images/desproges.png");
+  background-position: center center;
+  background-size: 200px;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+#badge_desproges:hover {
+  background: url("images/desproges_hover.png");
+  background-position: center center;
+  background-size: 200px;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+
 #roflcopter {
   width: 150px;
   display:inline-block;
